@@ -23,11 +23,15 @@
 ### :mag:  Find me here<div id="badges"> <a href="https://www.linkedin.com/in/edchernetsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward chernetsky" height="40" width="45" /></a>
 </p>
 
+### 📬  Mail me<div id="badges">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="45"/>
 
-
+ 
+ 
+<img src= https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif width="1000" height="200" >
 
   
-
+  
 
 
 
