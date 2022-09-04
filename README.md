@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Edward</h1>
-<h3 align="center">I'm Quality Assurance Engineer with 3+ years experience in testing of Web, Desktop and Mobile Applications.</h3>
+<h3 align="center">I'm Quality Assurance Engineer with experience in testing of Web, Desktop and Mobile Applications.</h3>
 
 
  ###   :hammer_and_wrench: Languages and Tools :
