@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>&nbsp;
 
-### :mag:  Find me here<div id="badges"> <a href="https://linkedin.com/in/edward chernetsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward chernetsky" height="40" width="50" /></a>
+### :mag:  Find me here<div id="badges"> <a href="https://www.linkedin.com/in/edchernetsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward chernetsky" height="40" width="50" /></a>
 </p>
 
 
