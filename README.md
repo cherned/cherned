@@ -20,11 +20,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>&nbsp;
 
-### :mag:  Find me here<div id="badges"> <a href="https://www.linkedin.com/in/edchernetsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward chernetsky" height="40" width="45" /></a>
-</p>
+### :mag:  Find me here<div id="badges"> 
+ [![Linkedin Badge](https://img.shields.io/badge/-Edward_C-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edchernetsky/)](https://www.linkedin.com/in/edchernetsky/]()
+)
 
 ### 📬  Mail me<div id="badges">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="45"/>
+[![Gmail Badge](https://img.shields.io/badge/-cherned76@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cherned76@gmail.com)](mailto:cherned76@gmail.com)
 
  
  
